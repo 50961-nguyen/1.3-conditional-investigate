@@ -1,5 +1,5 @@
 ## Setup
-1. Git Clone this repository and save it in your inestigate folder.
+1. Git Clone this repository and save it in your U1 folder.
 2. Open this folder on your computer and create a new file called cond_investigate.py
 
 ## Instructions
